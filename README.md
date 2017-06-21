@@ -14,4 +14,7 @@ Step 3: Download USB Driver
 Step 4: ESP8266 Library
 [Download Library](https://github.com/esp8266/Arduino)
 
-"128x64" OLED Screen SSD1306
+
+## Custom Libraries
+* "128x64" OLED Screen SSD1306
+* [PubSubClient](https://github.com/knolleary/pubsubclient)
