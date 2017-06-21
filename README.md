@@ -16,7 +16,7 @@ Step 4: ESP8266 Library
 
 
 ## Custom Libraries
-* "128x64" OLED Screen SSD1306
+* ["128x64" OLED Screen SSD1306](https://github.com/squix78/esp8266-oled-ssd1306) or [Println](https://github.com/stevenvo/arduino-libraries)
 * [PubSubClient](https://github.com/knolleary/pubsubclient) (IOT Projects)
 
 ## Cloud
