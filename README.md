@@ -21,6 +21,10 @@ Step 4: ESP8266 Library
 
 ## Cloud
 * [CloudMQTT](https://customer.cloudmqtt.com/login)
+1. Sign up for an account - with Cute-Cat (Free!)
+2. Create an instance - name it anything you like
+3. Create a user - I used "admin" with no password
+4. Create a topic - Name it by your intended function, e.g. GPS_Lookup
 
 ## (For Contributors)
-* [README Mardown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [README Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
