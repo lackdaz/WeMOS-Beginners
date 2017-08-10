@@ -1,5 +1,5 @@
 # WeMOS-Beginners
-To onboard new users for the Wemos D1 Mini
+Baby Steps for new users of the Arduino Platform and Wemos D1 Mini
 
 Step 1: Read the documentation
 [Read Documentation](https://wiki.wemos.cc/products:d1:d1_mini_pro)
@@ -11,8 +11,11 @@ Step 2: Download Arduino IDE:
 Step 3: Download USB Driver
 [Download Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
-Step 4: ESP8266 Library
-[Download Library](https://github.com/esp8266/Arduino)
+Step 4: Install the ESP8266 board
+[Instructions here!](https://github.com/esp8266/Arduino)
+- Start Arduino and open Preferences window.
+- Enter http://arduino.esp8266.com/stable/package_esp8266com_index.json into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas.
+- Open Boards Manager from Tools > Board menu and install esp8266 platform (and don't forget to select your ESP8266 board from Tools > Board menu after installation).
 
 ## Installing git
 * [Git for Mac](https://github.com/blog/1510-installing-git-from-github-for-mac)
@@ -20,7 +23,7 @@ Step 4: ESP8266 Library
 
 ## Custom Libraries
 * [PubSubClient](https://github.com/knolleary/pubsubclient) (IOT Projects)
-* ["128x64" OLED Screen SSD1306](https://github.com/squix78/esp8266-oled-ssd1306) or [Println](https://github.com/stevenvo/arduino-libraries)
+* Optional: ["128x64" OLED Screen SSD1306](https://github.com/squix78/esp8266-oled-ssd1306) or [Println](https://github.com/stevenvo/arduino-libraries)
 
 ## Cloud
 * [CloudMQTT](https://customer.cloudmqtt.com/login)
