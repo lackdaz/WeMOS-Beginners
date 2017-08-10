@@ -19,6 +19,7 @@ Step 4: ESP8266 Library
 * [Git for Windows](https://git-scm.com/download/win)
 
 ## Custom Libraries
+* Blazing fast setup: `cd ~/Documents/Arduino/libraries && git clone`
 * [PubSubClient](https://github.com/knolleary/pubsubclient) (IOT Projects)
 * ["128x64" OLED Screen SSD1306](https://github.com/squix78/esp8266-oled-ssd1306) or [Println](https://github.com/stevenvo/arduino-libraries)
 
